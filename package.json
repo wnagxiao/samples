@@ -35,5 +35,9 @@
     "grunt-htmlhint": ">=0.9.12",
     "pem": "^1.9.4",
     "webrtc-utilities": "^1.0.8"
+  },
+  "dependencies": {
+    "@polymer/lit-element": "^0.5.2",
+    "@webcomponents/webcomponentsjs": "^2.0.2"
   }
 }
